@@ -35,10 +35,14 @@ Each view is shot from the same camera in both maps; the divider sweeps from the
 
 ## Download and install
 
-Click **Code → Download ZIP** at the top of this page, or download the three files in
-[`usermaps/mp_rs_killhouse`](usermaps/mp_rs_killhouse) one by one.
+Either way works:
 
-Put them in your Call of Duty 4 folder, so you end up with:
+- **The three files:** open [`usermaps/mp_rs_killhouse`](usermaps/mp_rs_killhouse), click each file, then the
+  download button on its page.
+- **Everything at once:** GitHub's green **Code** button at the top of this page → **Download ZIP**. GitHub makes
+  that zip of this whole page; inside it, the map is in the `usermaps` folder.
+
+Put the map in your Call of Duty 4 folder, so you end up with:
 
 ```
 <CoD4 folder>/usermaps/mp_rs_killhouse/
