@@ -10,7 +10,8 @@ white on the defenders'.
 
 - Instructors' galleries over the decks, with stairs and ladders up to them
 - Bounces between the decks, the spawn roofs and the hanging container
-- Two alleys outside, between the neighbouring hangars
+- Two playable alleys outside, between the neighbouring hangars (grass strips you can't reach in the original),
+  with side doors from the hangar, a studio backlot on the west and a storage row on the east
 - A vending machine under the tower that gives Sleight of Hand, but everyone nearby hears you take it
 - A top-down minimap, a loading screen, reflection probes and a light grid like IW's own maps
 - Runs faster than stock Killhouse: in the same views, an average of 561 fps against stock's 416 on the test PC
@@ -24,6 +25,7 @@ of RS Killhouse sits 64 units further out, so its camera moves with it.
 |---|---|
 | ![South end: original vs RS](screenshots/compare/compare_south_end.gif) | ![North end: original vs RS](screenshots/compare/compare_north_end.gif) |
 | ![B site: original vs RS](screenshots/compare/compare_b_site.gif) | ![A site: original vs RS](screenshots/compare/compare_a_site.gif) |
+| ![West alley: original vs RS](screenshots/compare/compare_alley_w_from_n.gif) | ![East alley: original vs RS](screenshots/compare/compare_alley_e_from_s.gif) |
 
 ## Screenshots
 
@@ -32,7 +34,9 @@ of RS Killhouse sits 64 units further out, so its camera moves with it.
 | ![Attackers' spawn](screenshots/02_attackers_spawn.jpg) | ![Defenders' spawn](screenshots/03_defenders_spawn.jpg) |
 | ![The tower](screenshots/04_tower.jpg) | ![A gallery](screenshots/05_gallery.jpg) |
 | ![The north gallery](screenshots/06_gallery_north.jpg) | ![The west lane](screenshots/07_west_lane.jpg) |
-| ![The north end](screenshots/08_north_end.jpg) | ![The minimap](screenshots/09_minimap.jpg) |
+| ![The north end](screenshots/08_north_end.jpg) | ![A side door out to the west alley](screenshots/13_side_door.jpg) |
+| ![The west alley](screenshots/10_west_alley.jpg) | ![The west alley from above](screenshots/11_west_alley_above.jpg) |
+| ![The east alley from above](screenshots/12_east_alley_above.jpg) | ![The minimap](screenshots/09_minimap.jpg) |
 
 ## Download and install
 
