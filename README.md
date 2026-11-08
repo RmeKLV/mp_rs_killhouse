@@ -17,12 +17,13 @@ white on the defenders'.
 
 ## Original vs RS Killhouse
 
-Each view is shot from the same camera in both maps; the divider sweeps from the original to this one.
+Each view is shot in both maps from the same spot, and the divider sweeps from the original to this one. Each half
+of RS Killhouse sits 64 units further out, so its camera moves with it.
 
 | | |
 |---|---|
-| ![Attackers' end: original vs RS](screenshots/compare/compare_spawn_s_high.gif) | ![Defenders' end: original vs RS](screenshots/compare/compare_spawn_n_high.gif) |
-| ![Overview: original vs RS](screenshots/compare/compare_overview_sw.gif) | ![The tower: original vs RS](screenshots/compare/compare_centre_eye_rev.gif) |
+| ![South end: original vs RS](screenshots/compare/compare_south_end.gif) | ![North end: original vs RS](screenshots/compare/compare_north_end.gif) |
+| ![B site: original vs RS](screenshots/compare/compare_b_site.gif) | ![A site: original vs RS](screenshots/compare/compare_a_site.gif) |
 
 ## Screenshots
 
