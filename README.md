@@ -15,6 +15,15 @@ white on the defenders'.
 - A top-down minimap, a loading screen, reflection probes and a light grid like IW's own maps
 - Runs faster than stock Killhouse: in the same views, an average of 561 fps against stock's 416 on the test PC
 
+## Original vs RS Killhouse
+
+Each view is shot from the same camera in both maps; the divider sweeps from the original to this one.
+
+| | |
+|---|---|
+| ![Attackers' end: original vs RS](screenshots/compare/compare_spawn_s_high.gif) | ![Defenders' end: original vs RS](screenshots/compare/compare_spawn_n_high.gif) |
+| ![Overview: original vs RS](screenshots/compare/compare_overview_sw.gif) | ![The tower: original vs RS](screenshots/compare/compare_centre_eye_rev.gif) |
+
 ## Screenshots
 
 | | |
