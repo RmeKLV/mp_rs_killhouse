@@ -1,6 +1,6 @@
 # RS Killhouse (`mp_rs_killhouse`)
 
-A Call of Duty 4 multiplayer map, made for the RS server and playable on any CoD4 / CoD4X server.
+A Call of Duty 4 multiplayer map, free to download and play on any CoD4 / CoD4X server.
 
 ![The hangar](screenshots/01_hangar.jpg)
 
@@ -68,4 +68,4 @@ Free-for-all (`dm`), Team Deathmatch (`war`), Search & Destroy (`sd`), and Searc
 - **mp_killhouse:** Infinity Ward (Call of Duty 4: Modern Warfare). The layout, buildings and objects are theirs.
 - **IW3xo** by xoxor4d: used to export mp_killhouse to a `.map` to build from.
 - Built with the Call of Duty 4 Mod Tools from Infinity Ward's own assets.
-- Made by wasd for the RS server.
+- Made by wasd.
