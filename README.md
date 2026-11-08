@@ -66,7 +66,7 @@ Players without the map download it from the server if the server allows downloa
 
 ## Gametypes
 
-Free-for-all (`dm`), Team Deathmatch (`war`), Search & Destroy (`sd`), and Search & Rescue (`snr`, from the RS mod).
+Free-for-all (`dm`), Team Deathmatch (`war`), Search & Destroy (`sd`), and Search & Rescue (`snr`, on servers whose mod has it).
 
 ## Credits
 
