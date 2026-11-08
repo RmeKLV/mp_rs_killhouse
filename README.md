@@ -71,6 +71,6 @@ Free-for-all (`dm`), Team Deathmatch (`war`), Search & Destroy (`sd`), and Searc
 ## Credits
 
 - **mp_killhouse:** Infinity Ward (Call of Duty 4: Modern Warfare). The layout, buildings and objects are theirs.
-- **IW3xo** by xoxor4d: used to export mp_killhouse to a `.map` to build from.
+- **[IW3xo](https://xoxor4d.github.io/projects/iw3xo/)** by xoxor4d: used to export mp_killhouse to a `.map` to build from.
 - Built with the Call of Duty 4 Mod Tools from Infinity Ward's own assets.
 - Made by wasd.
